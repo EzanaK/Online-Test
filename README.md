@@ -1,2 +1,4 @@
-# Online-Test
-Data manager of an online test system
+# Skills Practiced
+- Designing object-oriented software systems
+- Maps
+- Interfaces
